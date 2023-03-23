@@ -1,0 +1,29 @@
+[
+  {
+    "amount": 1001,
+    "bookingId": 1,
+    "currency": "EUR",
+    "advertiserId": 10,
+    "tenantId": 20,
+    "payinAt": "2021-01-01T21:23:23Z",
+    "payoutDate": "2021-01-03T00:00:00Z"
+  },
+  {
+    "amount": 1002,
+    "bookingId": 2,
+    "currency": "EUR",
+    "advertiserId": 10,
+    "tenantId": 21,
+    "payinAt": "2021-01-01T21:23:23Z",
+    "payoutDate": "2021-01-03T00:00:00Z"
+  },
+  {
+    "amount": 1002,
+    "bookingId": 2,
+    "currency": "EUR",
+    "advertiserId": 10,
+    "tenantId": 21,
+    "payinAt": "2021-01-01T21:23:23Z",
+    "payoutDate": "2021-01-03T00:00:00Z"
+  }
+]
