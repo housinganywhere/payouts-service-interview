@@ -1,5 +1,9 @@
 # Payout service
 
+Payout service is responsible for creating payout information in the database.
+Payouts are created after booking is made and tenant paid the amount to advertiser.
+Several payouts for the same booking could be created, for example the booking price, deposit and utilities.
+
 ## Purpose
 
 This is a simple repository, that reads the data from the file and write it to the database.
